@@ -1,0 +1,10 @@
+[
+          {
+                    "device_name": "route test2",
+                    "device_type": "Compute-node",
+                    "ip": "1.1.1.1",
+                    "mac_address": "00:0a:95:9d:68:16",
+                    "port": "1",
+                    "time": "2020-02-08T05:01:23.512716903Z"
+          }
+]

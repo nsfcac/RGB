@@ -1,0 +1,47 @@
+html {
+    overflow-x: hidden;
+}
+
+.dropdown-menu {
+  right: 0 !important;
+  left: auto !important;
+}
+
+.navbar-brand>img {
+    max-height: 100px;
+    height: 100%;
+    padding: 5px;
+    width: auto;
+    border-radius: 50%;
+}
+
+pre {
+  margin-bottom: 0;
+  border-radius: .25rem;
+}
+
+.instructional-headings {
+  font-size: 1.5rem;
+  color: rgb(39, 85, 30);
+  margin-bottom: 0;
+}
+
+#file {
+  float: left;
+  width: 70%;
+  margin-right: 1rem;
+}
+
+
+label {
+  font-size: 1.5rem;
+}
+
+.alert {
+  display: none;
+  margin-top: 1rem;
+}
+
+#upload-form {
+  padding-top: 0.5rem;
+}
