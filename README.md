@@ -3,7 +3,7 @@
 ## (A Green500 Benchmark Tool Using Redfish Technology)
 
 
-### 1- Abstract
+### 1- Overview
 
 
 The goal of this research study is to develop and demonstrate methods to automate benchmarking the energy efficiency of high performance computing systems based on the Green500 methodology via direct measurements obtained from the baseboard management controllers using Redfish standard, instead of via an external power meter and a manual process. To achieve this goal, we design and develop an automatic Green500 benchmark tool based on Redfish, called RGB (Redfish Green500 Benchmarker). This tool also evaluates implementations of the Redfish standard to determine their ability to meet the requirements of the Green500 benchmarking protocols.
